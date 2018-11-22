@@ -15,7 +15,7 @@
   <component name="RunManager">
     <configuration name="Practice2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="practice2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.practice2.Practice2Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.snu.practice2.Practice2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
