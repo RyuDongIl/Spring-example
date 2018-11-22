@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="practice2:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0e968d-81fe-41bd-83f4-8702cb78420e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/snu/practice2/api/DeleteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/snu/practice2/api/FirstController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/snu/practice2/api/PostController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/snu/practice2/api/PutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/snu/practice2/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc0e968d-81fe-41bd-83f4-8702cb78420e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +19,7 @@
     <session id="155245420">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -141,8 +140,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="240">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -250,7 +249,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542907373276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542907392817" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -285,16 +284,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542904065877</updated>
-      <workItem from="1542904069083" duration="2903000" />
+      <workItem from="1542904069083" duration="3016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2903000" />
+    <option name="totallyTimeSpent" value="3016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="691" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -313,7 +311,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32888147" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32888147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="240">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
